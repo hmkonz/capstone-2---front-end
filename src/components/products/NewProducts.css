@@ -1,0 +1,84 @@
+.category-title {
+  margin-left: 450px;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  background-color: black;
+  color: lightgreen;
+  width: 400px;
+}
+
+.category-row {
+  margin-left: 50px;
+}
+
+.products {
+  margin-left: 100px;
+  margin-right: -200px;
+  margin-top: 50px;
+  width: 400px;
+}
+
+.products-link:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.product-name {
+  margin-left: -170px;
+  margin-bottom: 25px;
+  text-decoration: none;
+  width: 300px;
+}
+
+.product-name:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.product-image {
+  float: left;
+  width: 33.33%;
+  height: auto;
+}
+
+.products-link {
+  text-decoration: none;
+  color: black;
+}
+
+.ProductList-title {
+  background-color: black;
+  color: lightgreen;
+  width: 450px;
+  margin-left: 400px;
+  margin-top: 100px;
+  margin-bottom: -10px;
+}
+
+.category-dog-return-link {
+  margin-top: -890px;
+  margin-left: -20px;
+  color: black;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.category-dog-return-link:hover {
+  color: darkslategrey;
+}
+
+.category-cat-return-link {
+  margin-top: -480px;
+  margin-left: -20px;
+  color: black;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.category-cat-return-link:hover {
+  color: darkslategrey;
+}
+
+ 
+
+
