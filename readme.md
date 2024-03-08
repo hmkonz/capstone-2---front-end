@@ -3,7 +3,9 @@
 #### Deployed at:  [Just Real Food](https://capstone-2-frontend-tqq5.onrender.com "The best site for dog and cat food")
 
 ## About <br>
-"Just Real Food" is a website that allows visitors to the site to browse through all available dog and cat food products and see the details of specific products (i.e. price, ingredients, guaranteed analysis and calorie count). 
+"Just Real Food" is a data-driven website developed in React and Node and powered off of both an API I built myself and the Stripe API.  This was a challenging project that incorporated all of the full-stack skills I learned in the Springboard Software Engineering Career Track bootcamp.
+
+This website allows visitors to the site to browse through all available dog and cat food products and see the details of specific products (i.e. price, ingredients, guaranteed analysis and calorie count). 
 
 Visitors can create a customer account, which gives them the ability to add products to their cart, increase/decrease the quantities of items in the cart and/or remove products from the cart altogether. When ready to checkout, the customer is directed to a Stripe checkout page where they enter their credit card and shipping and billing information and confirm their intent to purchase. Stripe will then process the payment and a confirmation of purchase is shown in the browser. Customers can also cancel their purchase and a confirmation of their cancelled purchase is shown in the browser.
 <br>
@@ -11,7 +13,7 @@ Visitors can create a customer account, which gives them the ability to add prod
 ## Website Features <br>
 **APIs**
 <br>
-* JustRealFoodApi, created by myself. All products and their details were added to a seed file in the backend and all necessary api routes were added to the frontend. <br>
+* JustRealFoodApi, created by myself. Data was loaded into the API in the backend and all necessary api routes were added to the frontend. <br>
 * Stripe API for payment processing
 
 ## User Flow<br>
