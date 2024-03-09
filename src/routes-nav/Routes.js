@@ -17,7 +17,7 @@ import PrivateRoute from "./PrivateRoute";
  * Some of the site should only be visitable when logged in. Those routes are
  * wrapped by <PrivateRoute>, which is an authorization component.
  *
- * signup(), login() methods are passed in as props so can be used in the signup and login routes
+ * signup(), login() methods defined in NewApp.js file are passed in as props so they can be used in the SignupAndLoginForms component
  *
  * Visiting a non-existant route results in a friendly message asking user to click one of the links in the navBar
  */
