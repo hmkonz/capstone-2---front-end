@@ -8,6 +8,10 @@
 This website allows visitors to the site to browse through all available dog and cat food products and see the details of specific products (i.e. price, ingredients, guaranteed analysis and calorie count). 
 
 Visitors can create a customer account, which gives them the ability to add products to their cart, increase/decrease the quantities of items in the cart and/or remove products from the cart altogether. When ready to checkout, the customer is directed to a Stripe checkout page where they enter their credit card and shipping and billing information and confirm their intent to purchase. Stripe will then process the payment and a confirmation of purchase is shown in the browser. Customers can also cancel their purchase and a confirmation of their cancelled purchase is shown in the browser.
+<br><br>
+
+https://github.com/hmkonz/capstone-2---front-end/assets/111709174/8107146e-845f-4618-bbc6-b6d3ca8fbdf9 
+
 <br>
 
 ## User Flow<br>
